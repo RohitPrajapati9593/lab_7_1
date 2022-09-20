@@ -186,7 +186,7 @@ class HomeScreen extends StatelessWidget {
   }
 }
 */
-/*
+// /*
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomeScreen(),
@@ -228,4 +228,4 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
-*/
+// */
